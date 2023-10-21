@@ -7,3 +7,6 @@ The BIN files:
 - [329](https://github.com/alexonpeace/g533qs/raw/main/STRIX_SCAR_UEFI/G533QSAS329.zip)
 - [330](https://github.com/alexonpeace/g533qs/raw/main/STRIX_SCAR_UEFI/G533QSAS330.zip)
 - [331](https://github.com/alexonpeace/g533qs/raw/main/STRIX_SCAR_UEFI/G533QSAS331.zip)
+
+### Contact
+via Discord if you need any help or can help me @alexonpeace
